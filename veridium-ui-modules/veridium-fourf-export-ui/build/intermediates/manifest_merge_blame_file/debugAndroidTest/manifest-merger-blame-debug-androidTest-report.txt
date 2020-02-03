@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.veridiumid.sdk.fourfexport.defaultui.test" >
+4
+5    <uses-sdk
+5-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:5:15-41
+7        android:targetSdkVersion="27" />
+7-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:11:5-15:95
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:13:22-53
+13        android:label="Tests for com.veridiumid.sdk.fourfexport.defaultui.test"
+13-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:15:22-93
+14        android:targetPackage="com.veridiumid.sdk.fourfexport.defaultui.test" />
+14-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:12:22-91
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-67
+16-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+17-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-66
+18-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-63
+19    <uses-permission android:name="android.permission.FLASHLIGHT" /> <!-- A crashing bug on CyanogenMod; without this, camera will crash -->
+19-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:11:5-69
+19-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:11:22-66
+20    <uses-permission android:name="android.permission.PREVENT_POWER_KEY" /> <!-- Camera permissions -->
+20-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:14:5-76
+20-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:14:22-73
+21    <uses-permission android:name="android.permission.CAMERA" /> <!-- Camera features -->
+21-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:18:5-65
+21-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:18:22-62
+22    <uses-feature
+22-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:22:5-24:35
+23        android:name="android.hardware.camera"
+23-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:23:9-47
+24        android:required="true" />
+24-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:24:9-32
+25    <uses-feature
+25-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:25:5-27:35
+26        android:name="android.hardware.camera.autofocus"
+26-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:26:9-57
+27        android:required="true" />
+27-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:27:9-32
+28    <uses-feature
+28-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:28:5-30:36
+29        android:name="android.hardware.sensor.light"
+29-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:29:9-53
+30        android:required="false" />
+30-->[:veridium-camera1-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9070aef547a56c731e93d512ca655ed4\veridium-camera1-release\AndroidManifest.xml:30:9-33
+31
+32    <application
+32-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:7:5-9:19
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1bd162d1e9982c51999cbe410f0d807a\core-1.0.0\AndroidManifest.xml:22:18-86
+34        android:debuggable="true"
+34-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:7:18-43
+35        android:supportsRtl="true" >
+35-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:18-44
+36        <uses-library android:name="android.test.runner" />
+36-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:8:9-60
+36-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger935955612604279562.xml:8:23-57
+37
+38        <meta-data
+38-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:57
+39            android:name="preloaded_fonts"
+39-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-43
+40            android:resource="@array/preloaded_fonts" />
+40-->[__tested_artifact__::veridium-fourf-export-ui] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-fourf-export-ui\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-54
+41
+42        <activity
+42-->[:veridium-sdk-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\50f577a55fe743410ca93d83e639b31d\veridium-sdk-release\AndroidManifest.xml:11:9-14:52
+43            android:name="com.veridiumid.sdk.activities.BiometricsAggregateActivity"
+43-->[:veridium-sdk-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\50f577a55fe743410ca93d83e639b31d\veridium-sdk-release\AndroidManifest.xml:12:13-85
+44            android:label="BiometricsAggregate"
+44-->[:veridium-sdk-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\50f577a55fe743410ca93d83e639b31d\veridium-sdk-release\AndroidManifest.xml:13:13-48
+45            android:screenOrientation="portrait" />
+45-->[:veridium-sdk-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\50f577a55fe743410ca93d83e639b31d\veridium-sdk-release\AndroidManifest.xml:14:13-49
+46    </application>
+47
+48</manifest>

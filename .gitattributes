@@ -1,0 +1,6 @@
+*.aar filter=lfs diff=lfs merge=lfs -text
+*.plan filter=lfs diff=lfs merge=lfs -text
+mx-android-sdk filter=lfs diff=lfs merge=lfs -text
+.aar filter=lfs diff=lfs merge=lfs -text
+.plan filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.veridiumid.sdk.fingerselector.test" >
+4
+5    <uses-sdk
+5-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:5:15-41
+7        android:targetSdkVersion="27" />
+7-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:11:5-15:88
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:13:22-53
+13        android:label="Tests for com.veridiumid.sdk.fingerselector.test"
+13-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:15:22-86
+14        android:targetPackage="com.veridiumid.sdk.fingerselector.test" />
+14-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:12:22-84
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[:veridium-fourf-export-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2943cc28bf58b0b90a02de0e671920cf\jetified-veridium-fourf-export-release\AndroidManifest.xml:10:5-67
+16-->[:veridium-fourf-export-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2943cc28bf58b0b90a02de0e671920cf\jetified-veridium-fourf-export-release\AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[:veridium-fourf-export-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2943cc28bf58b0b90a02de0e671920cf\jetified-veridium-fourf-export-release\AndroidManifest.xml:11:5-79
+17-->[:veridium-fourf-export-release:] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2943cc28bf58b0b90a02de0e671920cf\jetified-veridium-fourf-export-release\AndroidManifest.xml:11:22-76
+18
+19    <application
+19-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:7:5-9:19
+20        android:allowBackup="true"
+20-->[__tested_artifact__::veridium-finger-selector] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1bd162d1e9982c51999cbe410f0d807a\core-1.0.0\AndroidManifest.xml:22:18-86
+22        android:debuggable="true"
+22-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:7:18-43
+23        android:supportsRtl="true" >
+23-->[__tested_artifact__::veridium-finger-selector] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-35
+24        <uses-library android:name="android.test.runner" />
+24-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:8:9-60
+24-->D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6044735360984443353.xml:8:23-57
+25
+26        <activity android:name="com.veridiumid.sdk.fingerselector.FingerSelectionActivity" >
+26-->[__tested_artifact__::veridium-finger-selector] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:20
+26-->[__tested_artifact__::veridium-finger-selector] D:\vfs_source_code\VfsNew\veridium-ui-modules\veridium-finger-selector\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-91
+27            android:screenOrientation="portrait">
+28        </activity>
+29    </application>
+30
+31</manifest>
